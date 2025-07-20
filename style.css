@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: "Quicksand", sans-serif;
-  background: url('./assets/proxy-image.jpeg') no-repeat center center fixed;
+  background: url('./assets/image-from-rawpixel-id-3286078-original.jpg') no-repeat center center fixed;
   background-size: cover;
   margin: 0;
   padding: 0;
@@ -57,7 +57,7 @@ a, a:hover {
     min-height: 100vh;
     padding: 100px 20px 50px;
     display: flex;
-    background: url('./assets/proxy-image.jpeg') no-repeat center center fixed;
+    background: url('./assets/image-from-rawpixel-id-3286078-original.jpg') no-repeat center center fixed;
     background-size: cover;
   }
   
@@ -164,7 +164,7 @@ a, a:hover {
   flex-wrap: wrap;
   align-items: flex-start;
   margin-top: 25px;
-  margin-bottom: 25px;
+  margin-bottom: 0px;
 }
 .profile-card-inf__item {
   padding: 0px 105px;
@@ -172,7 +172,7 @@ a, a:hover {
 }
 @media screen and (max-width: 768px) {
   .profile-card-inf__item {
-    padding: 10px 20px;
+    padding: 5px 20px;
     min-width: 120px;
   }
 }
@@ -274,7 +274,7 @@ a, a:hover {
   border: none;
   font-family: "Quicksand", sans-serif;
   font-weight: 700;
-  font-size: 19px;
+  font-size: 2.5vh;
   margin: 15px 35px;
   padding: 15px 40px;
   min-width: 201px;
