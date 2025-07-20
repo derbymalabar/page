@@ -57,7 +57,7 @@ a, a:hover {
     min-height: 100vh;
     padding: 100px 20px 50px;
     display: flex;
-    background: url('./assets/image-from-rawpixel-id-3286078-original.jpg') no-repeat center center fixed;
+    background: url('./assets/proxy-image.jpeg') no-repeat center center fixed;
     background-size: cover;
   }
   
